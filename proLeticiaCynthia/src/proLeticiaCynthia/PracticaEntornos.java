@@ -10,6 +10,7 @@ public class PracticaEntornos {
 		System.out.println("Hola nuevamente Mundo");
 		System.out.println("Adios Mundo cruel");
 		System.out.println("Cuarto cambio del primer usuario");
+		System.out.println("Nuevo cambio del segundo usuario");
 
 	}
 

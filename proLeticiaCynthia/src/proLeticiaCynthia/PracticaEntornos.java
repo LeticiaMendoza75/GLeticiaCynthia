@@ -2,8 +2,8 @@ package proLeticiaCynthia;
 
 public class PracticaEntornos {
 
-	int restar (int a, int b) {
-		return a-b;
+	int dividir (int a, int b) {
+		return a/b;
 	}
 	public static void main(String[] args) {
 		System.out.println("Hola Mundo");
